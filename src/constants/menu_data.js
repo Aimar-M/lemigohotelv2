@@ -10,7 +10,7 @@
 
 export const menuData = {
   "CONTINENTAL MENU": {
-    link: "oriental_menu",
+    link: "continental_menu",
     pages: 15,
     title: "CONTINENTAL MENU",
     imageSrc: "/variety_small.jpg",
